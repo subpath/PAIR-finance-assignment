@@ -19,6 +19,3 @@ jupyter lab
 
 ## Solution:
 Notebook with solution can be found [here](/Solving_email_scheduling_problem.ipynb)
-
-Sometimes GitHub can't parse jupyter notebooks, it's a case please try nbviewer
-
